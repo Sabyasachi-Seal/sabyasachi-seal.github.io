@@ -8066,8 +8066,8 @@ button.swiper-pagination-bullet {
 
 @font-face {
 	font-family: 'FontAwesome';
-	src: url(../../../themes/myour/assets/fonts/font-awesome/fonts/fontawesome-webfont3e6e.eot?v=4.7.0);
-	src: url(//bslthemes.site/myour/wp-content/themes/myour/assets/fonts/font-awesome/css/../fonts/fontawesome-webfont.eot?#iefix&v=4.7.0) format('embedded-opentype'), url(//bslthemes.site/myour/wp-content/themes/myour/assets/fonts/font-awesome/css/../fonts/fontawesome-webfont.woff2?v=4.7.0) format('woff2'), url(//bslthemes.site/myour/wp-content/themes/myour/assets/fonts/font-awesome/css/../fonts/fontawesome-webfont.woff?v=4.7.0) format('woff'), url(//bslthemes.site/myour/wp-content/themes/myour/assets/fonts/font-awesome/css/../fonts/fontawesome-webfont.ttf?v=4.7.0) format('truetype'), url(//bslthemes.site/myour/wp-content/themes/myour/assets/fonts/font-awesome/css/../fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular) format('svg');
+	src: url();
+	src: url() format('embedded-opentype'), url() format('svg');
 	font-weight: 400;
 	font-style: normal
 }
@@ -11107,22 +11107,6 @@ button.swiper-pagination-bullet {
 	clip: auto
 }
 
-
-/*!
-Theme Name: Myour
-Theme URI: https://bslthemes.site/myour/intro/
-Author: beshleyua
-Author URI: https://themeforest.net/user/beshleyua
-Description: Myour - CV Resume WordPress Theme
-Requires at least: 4.8
-Requires PHP: 5.2.4
-Tested up to: 5.8
-Version: 1.2.8
-License: General Public License
-License URI: http://www.gnu.org/licenses/gpl.html
-Text Domain: myour
-Tags: full-width-template, editor-style, featured-images, sticky-post, threaded-comments, translation-ready, theme-options 
-*/
 
 html {
 	margin-right: 0 !important
@@ -16406,7 +16390,7 @@ span.post-page-numbers {
 	padding: 0;
 	width: 14px;
 	height: 31px;
-	background: url(//bslthemes.site/myour/wp-content/themes/myour/assets/images/search.svg) no-repeat center center !important;
+	background: url() no-repeat center center !important;
 	background-size: contain !important;
 	font-size: 0;
 	opacity: .7;
@@ -16953,8 +16937,8 @@ section.elementor-element:last-child .section {
 
 @font-face {
 	font-family: eicons;
-	src: url(../../../plugins/elementor/assets/lib/eicons/fonts/eicons02d6.eot?5.12.0);
-	src: url(//bslthemes.site/myour/wp-content/plugins/elementor/assets/lib/eicons/css/../fonts/eicons.eot?5.12.0#iefix) format("embedded-opentype"), url(//bslthemes.site/myour/wp-content/plugins/elementor/assets/lib/eicons/css/../fonts/eicons.woff2?5.12.0) format("woff2"), url(//bslthemes.site/myour/wp-content/plugins/elementor/assets/lib/eicons/css/../fonts/eicons.woff?5.12.0) format("woff"), url(//bslthemes.site/myour/wp-content/plugins/elementor/assets/lib/eicons/css/../fonts/eicons.ttf?5.12.0) format("truetype"), url(//bslthemes.site/myour/wp-content/plugins/elementor/assets/lib/eicons/css/../fonts/eicons.svg?5.12.0#eicon) format("svg");
+	src: url();
+	src: url() format("embedded-opentype"), url() format("svg");
 	font-weight: 400;
 	font-style: normal
 }
@@ -24467,8 +24451,8 @@ body.elementor-page .elementor-widget-menu-anchor {
 
 @font-face {
 	font-family: eicons;
-	src: url(../../../plugins/elementor/assets/lib/eicons/fonts/eicons0b93.eot?5.10.0);
-	src: url(https://bslthemes.site/myour/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0#iefix) format("embedded-opentype"), url(https://bslthemes.site/myour/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0) format("woff2"), url(https://bslthemes.site/myour/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0) format("woff"), url(https://bslthemes.site/myour/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0) format("truetype"), url(https://bslthemes.site/myour/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0#eicon) format("svg");
+	src: url();
+	src: url() format("svg");
 	font-weight: 400;
 	font-style: normal
 }
