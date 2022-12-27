@@ -24533,7 +24533,7 @@ body,
 .skills.circles .progress:after,
 .contact-form .group-val .label,
 .footer .socials a {
-	background-color: #373b40
+	background-color: rgb(28 28 27)
 }
 
 h1,
@@ -24555,7 +24555,7 @@ h6,
 .pricing-item .name,
 .reviews-item .name,
 .blog-items .blog-item .desc .name {
-	color: #fff
+	color: rgb(218 165 32)
 }
 
 body,
