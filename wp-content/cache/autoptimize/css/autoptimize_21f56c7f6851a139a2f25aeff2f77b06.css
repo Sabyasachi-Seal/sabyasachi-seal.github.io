@@ -12152,7 +12152,7 @@ blockquote {
 	top: 40px;
 	height: 80px;
 	z-index: 100;
-	background: #585d65;
+	background: rgb(0 0 0 / 33%);
 	border-radius: 80px;
 	-moz-border-radius: 80px;
 	-webkit-border-radius: 80px;
